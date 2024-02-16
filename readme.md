@@ -1,4 +1,4 @@
-### Implement packet delivery confirmation using Iperf.
+### Demostrate a tool used to measure networking bandwidth like Iperf.
 
 server mode:  ./Iperfer -s -p 12345
 
