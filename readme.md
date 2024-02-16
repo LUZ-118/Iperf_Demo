@@ -1,5 +1,4 @@
-## Implement packet delivery confirmation using Iperf.
-## usage
+### Implement packet delivery confirmation using Iperf.
 
 server mode:  ./Iperfer -s -p 12345
 
